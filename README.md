@@ -134,6 +134,8 @@ Conclusion:
 
 - Payment type significantly impacts driver revenue per trip.
 
+> ⚠️ Note: While the t-test confirms statistical significance, further analysis controlling for trip distance and duration would help isolate whether payment type independently impacts revenue.
+
 ## Key Findings
 
 - Card payments have higher average fare than cash.
@@ -144,11 +146,7 @@ Conclusion:
 
 ## Business Recommendation
 
-- Drivers should encourage card payments.
-
-- Platforms may incentivize digital transactions.
-
-- Digital payment ecosystems likely improve revenue predictability.
+Encouraging digital payments can improve both revenue and predictability for drivers. Ride-hailing platforms can introduce incentives such as cashback or discounts to promote card usage. Additionally, understanding that card users tend to generate higher fares can help in designing targeted pricing strategies and improving overall revenue optimization.
 
 ## Skills Demonstrated
 
